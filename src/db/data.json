@@ -1,0 +1,68 @@
+[
+  
+      {
+        "type":"cats",
+        "name":"Axel",
+        "size":"Pequeño",
+        "raza": "Persa",
+        "date": "2022/04/01"
+      },
+      {
+        "type":"cats",
+        "name":"Luna",
+        "size":"Pequeño",
+        "raza": "Maine Coon",
+        "date": "2022/04/01"
+      },
+      {
+        "type":"cats",
+        "name":"Coco",
+        "size":"Pequeño",
+        "raza": "Bengala",
+        "date": "2022/04/01"
+      },
+      {
+        "type":"cats",
+        "name":"Felix",
+        "size":"Pequeño",
+        "raza": "Esfinge",
+        "date": "2022/04/01"
+      },
+      {
+        "type":"cats",
+        "name":"Gatsby",
+        "size":"Pequeño",
+        "raza": "Siamés",
+        "date": "2022/04/01"
+      },
+  
+      {
+        "type":"dogs",
+        "name":"Thor",
+        "size":"Grande",
+        "raza": "Boxer",
+        "date": "2022/04/01"
+      },
+      {
+        "type":"dogs",
+        "name":"Max",
+        "size":"Mediano",
+        "raza": "Beagle",
+        "date": "2022/04/01"
+      },
+      {
+        "type":"dogs",
+        "name":"Simba",
+        "size":"Grande",
+        "raza": "Huski",
+        "date": "2022/04/01"
+      },
+      {
+        "type":"dogs",
+        "name":"Toby",
+        "size":"Pequeño",
+        "raza": "Corgi",
+        "date": "2022/04/01"
+      }
+  
+]
